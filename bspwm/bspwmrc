@@ -3,7 +3,6 @@
 picom --config ~/.config/picom/picom.conf &
 kitty &
 sxhkd &
-polybar top &
 feh --bg-scale ~/Downloads/wp1838901.png &
 
 bspc monitor -d I II III IV V VI VII VIII 
